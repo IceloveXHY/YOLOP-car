@@ -1,0 +1,37 @@
+{
+  "id": "4867673",
+  "name": "road",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4770751",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "5504348",
+      "name": "logout",
+      "font_class": "logout",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "10465937",
+      "name": "数据分析",
+      "font_class": "shujufenxi",
+      "unicode": "e7b9",
+      "unicode_decimal": 59321
+    },
+    {
+      "icon_id": "22151870",
+      "name": "Workspace",
+      "font_class": "Workspace",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    }
+  ]
+}
