@@ -1,0 +1,16 @@
+video_path: "app01/code/vehicle_violation_detector/video/video.avi"
+output_video: "app01/code/vehicle_violation_detector/output.mp4"
+output_dir: "app01/code/vehicle_violation_detector/violation_screenshots"
+log_path: "app01/code/vehicle_violation_detector/output/violation_log.csv"
+
+fps: 30
+violation_threshold_sec: 10
+max_tracking_distance: 50
+
+model:
+  path: "app01/code/vehicle_violation_detector/output/car.pt"
+  target_classes: ["car", "bus", "van", "truck"]
+
+
+use_saved_rois: true
+roi_path: "app01/code/vehicle_violation_detector/config/rois.yaml"
